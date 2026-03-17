@@ -1,3 +1,3 @@
 # webGL
 
-- Touchscreen [(https://thiingyx.github.io/webGL/)]
+- Touchscreen (https://thiingyx.github.io/webGL/)
